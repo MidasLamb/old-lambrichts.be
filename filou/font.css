@@ -1,0 +1,11 @@
+body         { font-family: "Verdana"font-size: 10pt; color: #252D36; list-style-type:decimal }
+a:active     { font-family: Verdana; font-size: 10pt; color: #333E4D; }
+a:hover      { font-family: Verdana; font-size: 10pt; color: #333E4D; font-weight: bold }
+a:link       { font-family: Verdana; font-size: 10pt; color: #333E4D}
+a:visited    { font-family: Verdana; font-size: 10pt; color: #333E4D; font-style: oblique }
+BODY         { font-family: "Verdana" font-size:10pt; color:#252D36}
+h1           { font-family: "Verdana", Arial, Helvetica, sans-serif; font-size: 10pt; color: #333E4D; display: inline; margin-left: 20px }
+h2           { font-family: "Verdana", Arial, Helvetica, sans-serif; font-size: 8pt; color: #333E4D; display: inline; margin-left: 20px }
+ol           { list-style-type: decimal; color: #252D36; font-size: 10pt; font-family: "Verdana", Arial, Helvetica, sans-serif;margin-left: 40px; list-style-position: outside }
+ul           { list-style-type: decimal; color: #252D36; font-size: 10pt; font-family: "Verdana", Arial, Helvetica, sans-serif; margin-left: 40px; list-style-position: outside }
+P            { margin-left: 20px }
